@@ -1,4 +1,4 @@
-## Your Goal: Add Up Only Pizza Orders
+## 🏁:Your Goal: Add Up Only Pizza Orders
 Modify the `numberOfPizzas` function to only count `pizzas` when the `order.type` is equal to `ORDER_TYPES.PIZZA.`
 
 The orders will have a `type` keyword:
